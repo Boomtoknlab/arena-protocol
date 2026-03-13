@@ -1,0 +1,16 @@
+name: arena-protocol
+id: ari:cloud:compass:2eefe999-d61b-469c-92ef-31fc5e9b3f13:component/ace244a1-3ae8-43fb-8c96-347d12170341/699d3e08-98d5-499b-be24-ff60b8218eb1
+description: A full GameFi Ecosystem
+configVersion: 1
+typeId: SERVICE
+fields:
+  tier: 4
+links:
+  - name: null
+    type: REPOSITORY
+    url: https://github.com/Boomtoknlab/arena-protocol
+relationships:
+  DEPENDS_ON: []
+labels:
+  - source:github
+customFields: null
